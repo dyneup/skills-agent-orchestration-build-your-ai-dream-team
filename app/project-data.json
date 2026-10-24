@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Customer Portal Refresh",
+      "owner": "Avery Chen",
+      "status": "On track",
+      "recentActivity": "Completed the account settings review",
+      "priority": "High",
+      "summary": "Refresh the customer portal with clearer navigation and accessible account tools."
+    },
+    {
+      "name": "Analytics Workspace",
+      "owner": "Jordan Patel",
+      "status": "In progress",
+      "recentActivity": "Shared the first dashboard prototype",
+      "priority": "Medium",
+      "summary": "Bring key product metrics together in a workspace for cross-team planning."
+    },
+    {
+      "name": "Mobile Onboarding",
+      "owner": "Sam Rivera",
+      "status": "At risk",
+      "recentActivity": "Flagged a dependency on updated identity flows",
+      "priority": "High",
+      "summary": "Simplify the first-run experience and help new users reach value sooner."
+    },
+    {
+      "name": "Knowledge Base",
+      "owner": "Taylor Brooks",
+      "status": "Blocked",
+      "recentActivity": "Waiting on content approvals from partner teams",
+      "priority": "Low",
+      "summary": "Organize support guidance so contributors can keep answers accurate and easy to find."
+    }
+  ]
+}
